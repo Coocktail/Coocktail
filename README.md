@@ -15,7 +15,7 @@
 
 
 
-[<img align="left" alt="Coocktail | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
+[<img align="left" alt="Coocktail | Discord" width="22px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" />]
 
 <br />
 
