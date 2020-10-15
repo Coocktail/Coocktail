@@ -15,7 +15,7 @@
 
 
 
-[<img align="left" alt="Coocktail | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
+[<img align="left" alt="Coocktail | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]Discord
 
 <br />
 
@@ -23,7 +23,6 @@
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 <br />
-[<img align="left" alt="NodeJs" width="26px" src="https://firebearstudio.com/blog/wp-content/uploads/2015/10/Node-e1443953851722.png" />]
 <br />
 
 ---
