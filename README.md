@@ -15,7 +15,7 @@
 
 
 
-[<img align="left" alt="Coocktail | "Discord" width="22px" src="http://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/discord-icon.png" />]
+[<img align="left" alt="Coocktail | Discord" width="22px" src="http://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/discord-icon.png" />]
 
 <br />
 
